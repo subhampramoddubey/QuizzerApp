@@ -21,6 +21,8 @@ public class Question {
 
     public String getQuestion() {
         return question;
+
+
     }
 
     public List<String> getAnswers() {
